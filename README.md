@@ -1,15 +1,17 @@
 ### Olá 👋
 Eu sou o Guilherme!
 
-
-
 - 🤓 Sou estudande do programa starter fullstack web developer [Starter](https://www.growdev.com.br/starter) da GrowDev. 
 
 ## Skills
-- 💻 HTML - em desenvolvimento
-- 👁️ CSS - em desenvolvimento
-- 👨‍💻 JavaScript - em desenvolvimento
+- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code> HTML
+- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code> CSS
+- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+ JavaScript - em desenvolvimento
 
+## Ferramentas de Desenvolvimento
+
+- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## Contato
 - [Guilherme Turek](https://www.linkedin.com/in/guilherme-luis-078869232/) no Linkedin
