@@ -1,4 +1,20 @@
-### Hi there 👋
+### Olá 👋
+Eu sou o Guilherme!
+
+
+
+- 🤓 Sou estudande do programa starter fullstack web developer [Starter](https://www.growdev.com.br/starter) da GrowDev. 
+
+## Skills
+- 💻 HTML - em desenvolvimento
+- 👁️ CSS - em desenvolvimento
+- 👨‍💻 JavaScript - em desenvolvimento
+
+
+## Contato
+- [Guilherme Turek](https://www.linkedin.com/in/guilherme-luis-078869232/) no Linkedin
+- [GuiTurek#9409](./) no Discord
+
 
 <!--
 **Guilherme-Turek/Guilherme-Turek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
