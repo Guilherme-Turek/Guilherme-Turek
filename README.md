@@ -15,7 +15,7 @@ Eu sou o Guilherme!
 - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## Contato
-- [Guilherme Turek](https://www.linkedin.com/in/guilherme-luis-078869232/) no Linkedin
+- [Guilherme Turek](https://www.linkedin.com/in/guilherme-luis-860a1a25b/) no Linkedin
 - [GuiTurek#9409](./) no Discord
 
 
